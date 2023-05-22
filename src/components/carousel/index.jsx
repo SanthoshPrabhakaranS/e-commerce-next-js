@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { useState } from "react";
 
 const images = [
@@ -38,10 +39,12 @@ const Carousel = () => {
               index === 2 ? "ml-5" : "mr-5"
             }`}
           >
-            <img
+            <Image
               className="w-full h-full object-cover"
               src={img}
               alt={`carousel-${index}`}
+              height={"300"}
+              width={"300"}
             />
           </div>
         ))}

@@ -24,7 +24,7 @@ const AboutUs = () => {
         <p>
           We understand that shopping for clothes should be an enjoyable
           experience, which is why we have created a user-friendly platform that
-          makes browsing and purchasing a breeze. Whether you're searching for
+          makes browsing and purchasing a breeze. Whether youre searching for
           casual essentials, elegant evening wear, or statement pieces to make
           heads turn, Fressy has you covered.
         </p>
