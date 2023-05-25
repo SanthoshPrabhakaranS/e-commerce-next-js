@@ -26,16 +26,16 @@ const Navbar = () => {
         <PopoverContent>
           <ul className="flex flex-col gap-2 p-2">
             <li className="cursor-pointer border-b">
-              <Link href={"/products/men's clothing"}>Men's clothing</Link>
+              <Link href={"/products/men's clothing"}>Men&apos;s clothing</Link>
             </li>
             <li className="cursor-pointer border-b">
-              <Link href={"/products/women's clothing"}>Women's clothing</Link>
+              <Link href={"/products/women's clothing"}>Women&apos;s clothing</Link>
             </li>
             <li className="cursor-pointer border-b">
               <Link href={"/products/suits"}>Suits</Link>
             </li>
             <li className="cursor-pointer border-b">
-              <Link href={"/products/kid's clothing"}>Kid's clothing</Link>
+              <Link href={"/products/kid's clothing"}>Kid&apos;s clothing</Link>
             </li>
             <li className="cursor-pointer border-b">
               <Link href={"/products/hats"}>Hats</Link>
